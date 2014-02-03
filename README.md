@@ -1,4 +1,4 @@
 fergalbyrne.github.io
 =====================
 
-Experiments in Machine Intelligents
+Experiments in Machine Intelligence

@@ -48,6 +48,7 @@ body {
   line-height: 0.9em;
   letter-spacing: -0.08em;
   text-transform: uppercase;
+  text-transform: none;
   text-shadow: none; }
 
 .reveal h1 {
